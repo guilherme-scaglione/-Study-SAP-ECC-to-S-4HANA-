@@ -1,12 +1,15 @@
-# SAP HANA vs Classic Databases (DB2 / Oracle)
+# Benefits
 
-This document explains the fundamental differences between SAP HANA
-and classic relational databases traditionally used with SAP ECC,
-such as DB2 or Oracle.
+## Performance
+- Eliminates information silos (single source of truth)
+- Automates core processes (rows to automate orders from supplier when low stock)
+- Better decision-making (all data is one system, real time reports) 
+- Prioritizes security (seggregation of duties)
+- Ensures compliance (auto generates standardized reports)
 
-Understanding this shift is essential to grasp why SAP S/4HANA
-requires changes in architecture, custom code, and data models.
+# Limitations
 
----
-
-## Classic SAP Database Model (Pre-HANA)
+## Performance
+- High cost of ownership
+- Long implementation times
+- Complex end-user experience
