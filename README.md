@@ -1,7 +1,6 @@
 # SAP ECC to S/4HANA Transition – Study & Simulation Project
 
-This repository documents my structured learning journey focused on
-SAP ECC to SAP S/4HANA system conversion.
+Given that the system I currently work with is going to be phased out, this repository documents my structured learning journey focused on SAP ECC to SAP S/4HANA system transition.
 
 The goal is to demonstrate understanding of:
 - SAP HANA fundamentals
