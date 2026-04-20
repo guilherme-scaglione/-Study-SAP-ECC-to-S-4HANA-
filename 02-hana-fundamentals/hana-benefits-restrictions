@@ -1,0 +1,12 @@
+# SAP HANA vs Classic Databases (DB2 / Oracle)
+
+This document explains the fundamental differences between SAP HANA
+and classic relational databases traditionally used with SAP ECC,
+such as DB2 or Oracle.
+
+Understanding this shift is essential to grasp why SAP S/4HANA
+requires changes in architecture, custom code, and data models.
+
+---
+
+## Classic SAP Database Model (Pre-HANA)
